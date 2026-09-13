@@ -1,0 +1,22 @@
+﻿Project: Digital Business Card
+Project ID: APP-0001
+Owner: Walter Gonzalez
+
+Purpose:
+Digital business card opened through QR code.
+
+Root Folder:
+C:\Digital Tools\APP-0001
+
+Main Components:
+- Digital Business Card
+- Contact VCF
+- QR Code
+- Lock Screen Wallpaper
+- Web Deployment
+
+Status:
+Development
+
+Created:
+2026-09-12
